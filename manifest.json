@@ -1,0 +1,16 @@
+{
+  "name": "MPU2025",
+  "short_name": "MPU2025",
+  "theme_color": "#004080",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "International Congress of the Mediterranean Phytopathological Union",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
