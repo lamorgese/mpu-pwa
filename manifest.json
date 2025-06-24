@@ -4,13 +4,14 @@
   "theme_color": "#004080",
   "background_color": "#ffffff",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://app.ciheambaricongressmpu2025.org/",
   "description": "International Congress of the Mediterranean Phytopathological Union",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "https://lamorgese.github.io/mpu-pwa/logo.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
